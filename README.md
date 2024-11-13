@@ -18,22 +18,36 @@ temporal dependencies in longitudinal patient data.
 
 ## Features
 Early Detection
+
 ● Advanced Pattern Recognition
+
 ● Data Augmentation and Normalization
+
 ● Potential for Standardization
 
 ## Requirements
 HARDWARE ENVIRONMENT
+
 ● NVIDIA GeForce RTX 3080
+
 ● 32 GB RAM
+
 ● 12 Gen Intel Core I5-140p
+
 SOFTWARE ENVIRONMENT
+
 ● Python 3.8
+
 ● Anaconda
+
 ● Tensorflow
+
 ● Matplotlib and Seaborn
+
 TECHNOLOGIES USED
+
 ● Jupyter notebook
+
 ● Deep Learning
 
 ## System Architecture
@@ -42,21 +56,27 @@ TECHNOLOGIES USED
 
 ## Output
 Output1 - Brain MRI Sample in Batch
+
 ![MRI scan](https://github.com/user-attachments/assets/bda74d36-2f48-4b62-bcca-7e33bbaf28c6)
 
 Output2 - Predicted values
+
 ![Predicted values](https://github.com/user-attachments/assets/2ecc6452-516d-4ca7-91bb-7e99dc472200)
 
 Output3 - Loss and Accuracy
+
 ![Loss and accuracy](https://github.com/user-attachments/assets/38d16485-3c78-4f07-827c-160f53d67256)
 
 Output4 - Confusion Matrix
+
 ![Confusion matrix](https://github.com/user-attachments/assets/f6b0c53e-ba2b-4d59-a7ba-94257984f22d)
 
 Output5 - Alzheimer Probability of a Random MRI from Test Data
+
 ![probability](https://github.com/user-attachments/assets/8c74097d-92da-48da-b6ac-6b2e84cbac78)
 
 Output6 - Predicted Output
+
 ![Output](https://github.com/user-attachments/assets/c1aaae5b-f200-45fd-994b-04d4f69a025a)
 
 
@@ -67,5 +87,6 @@ In the end, this project's practical implementation should improve Alzheimer's e
 
 ## Articles published / References
 A. Saxena and H. Kaur, "Alzheimer's Disease (AD) Detection Using Various Machine Learning Techniques: A Systematic Review," 2023 6th International Conference on Contemporary Computing and Informatics (IC3I), Gautam Buddha Nagar, India, 2023
+
 B. S. Rao and M. Aparna, "A Review on Alzheimer’s Disease Through Analysis of MRI Images Using Deep Learning Techniques," in IEEE Access, vol. 11, pp. 71542-71556, 2023
 
