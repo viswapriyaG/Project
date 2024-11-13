@@ -99,10 +99,10 @@ y=y_train.numpy())
 class_weights = dict(zip(np.unique(y_train), class_weight))
 ``` 
 ## Model Building(CNN & RNN) 
-``
+```
 from keras.models import Sequential 
 from keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, SimpleRNN,
-``
+```
 ## TimeDistributed 
 ```
 def build_model(): 
