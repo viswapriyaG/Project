@@ -1,5 +1,6 @@
 # Project
 ## Import packages 
+```
 import pandas as pd 
 import numpy as np 
 import matplotlib.pyplot as plt 
@@ -24,7 +25,8 @@ Conv2D, MaxPooling2D
 from tensorflow.keras.callbacks import ModelCheckpoint, EarlyStopping 
 plt.rcParams["figure.figsize"] = (10,6)
 plt.rcParams['figure.dpi'] = 300 
-colors = ["#B6EE56", "#D85F9C", "#EEA756", "#56EEE8"] 
+colors = ["#B6EE56", "#D85F9C", "#EEA756", "#56EEE8"]
+```
 ## Target Value Distribution 
 try: 
  if tf.test.gpu_device_name(): 
