@@ -17,7 +17,7 @@ Neural Networks are able to identify emerging patterns and subtle changes as tim
 temporal dependencies in longitudinal patient data.
 
 ## Features
-Early Detection
+● Early Detection
 
 ● Advanced Pattern Recognition
 
